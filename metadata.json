@@ -1,0 +1,6 @@
+{
+  "name": "LaundryKu",
+  "description": "Aplikasi kasir dan manajemen operasional laundry profesional dengan order, nota struk, pelacakan status, data pelanggan, pengeluaran, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
